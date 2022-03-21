@@ -7,7 +7,6 @@ While in the process of filtering out the data, decrepencies were found for a sp
 
 <h1>Resources</h1>
 - Data Sources: schools_complete.csv , students_complete.csv
-
 - Software: Python 3.9, Visual Studio Code, 1.64.2 (Universal), jupyter notebook
 
 <h1>Summary</h1>
