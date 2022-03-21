@@ -39,6 +39,6 @@ Removing the scores for Thomas High School's has effected the overall passing pe
 
 <h1>Challange Summary</h1>
 As you can see we have pulled together the analysis of the school district grades; made changes to what information we take into account; and provided clear numbers on that include a before and after the updated to the Thomas High School data. 
-
+<br>
 With the many steps, DataFrames, and print outs that show the progression of the code over time you can see clearly the change that are made. You can also see clearly where you can go in and make changes without having to re-do the whole process. Again we are working with a tool that allows you to use this code to break down future CSV files and potentially make minor changes. 
 <p>
